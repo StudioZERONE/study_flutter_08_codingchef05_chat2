@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185105578159",
+    "project_id": "study-flutter-08-cchef05-chat2",
+    "storage_bucket": "study-flutter-08-cchef05-chat2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185105578159:android:75eb504d6f6b38e7ddbc5a",
+        "android_client_info": {
+          "package_name": "com.example.study_flutter_08_codingchef05_chat2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185105578159-i9b14sn4k4dj0ph0sinah4q3pduf4mhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWxHPWHo0oa9f7XorGT-X4HXsVc4zhn7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185105578159-i9b14sn4k4dj0ph0sinah4q3pduf4mhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
